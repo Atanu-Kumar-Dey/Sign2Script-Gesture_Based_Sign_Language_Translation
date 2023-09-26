@@ -1,0 +1,1 @@
+Here will be the backend part mainly focused on model and creating server to connect witht the frontend.
